@@ -1,0 +1,11 @@
+C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Debug\Data\InstituteDB.sdf
+C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Debug\EFCodeFirstValidation.exe.config
+C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Debug\EFCodeFirstValidation.exe
+C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Debug\EFCodeFirstValidation.pdb
+C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Debug\EntityFramework.dll
+C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Debug\EntityFramework.xml
+C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\obj\x86\Debug\EFCodeFirstValidation.csprojResolveAssemblyReference.cache
+C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\obj\x86\Debug\EFCodeFirstValidation.exe
+C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\obj\x86\Debug\EFCodeFirstValidation.pdb
