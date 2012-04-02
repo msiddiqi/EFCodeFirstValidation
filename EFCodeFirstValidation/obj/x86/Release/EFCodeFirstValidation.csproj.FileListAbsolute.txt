@@ -8,3 +8,14 @@ C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFC
 C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Release\EntityFramework.xml
 C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\obj\x86\Release\EFCodeFirstValidation.exe
 C:\Users\shujaat\documents\visual studio 2010\Projects\EFCodeFirstValidation\EFCodeFirstValidation\obj\x86\Release\EFCodeFirstValidation.pdb
+C:\Users\shujaat\GitProjects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Release\EFCodeFirstValidation.exe.config
+C:\Users\shujaat\GitProjects\EFCodeFirstValidation\EFCodeFirstValidation\obj\x86\Release\EFCodeFirstValidation.exe
+C:\Users\shujaat\GitProjects\EFCodeFirstValidation\EFCodeFirstValidation\obj\x86\Release\EFCodeFirstValidation.pdb
+C:\Users\shujaat\GitProjects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Release\Data\InstituteDB.sdf
+C:\Users\shujaat\GitProjects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Release\EFCodeFirstValidation.exe
+C:\Users\shujaat\GitProjects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Release\EFCodeFirstValidation.pdb
+C:\Users\shujaat\GitProjects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Release\EntityFramework.dll
+C:\Users\shujaat\GitProjects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\shujaat\GitProjects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Release\System.Data.SqlServerCe.Entity.dll
+C:\Users\shujaat\GitProjects\EFCodeFirstValidation\EFCodeFirstValidation\bin\Release\EntityFramework.xml
+C:\Users\shujaat\GitProjects\EFCodeFirstValidation\EFCodeFirstValidation\obj\x86\Release\EFCodeFirstValidation.csprojResolveAssemblyReference.cache

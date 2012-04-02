@@ -57,10 +57,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Department.cs" />
     <Compile Include="Entities\InstituteEntities.cs" />
     <Compile Include="Entities\Student.cs" />
+    <Compile Include="Entities\Validation\AssociateMetadata\DepartmentAssociatedMetadata.cs" />
+    <Compile Include="Entities\Validation\Department.cs" />
+    <Compile Include="Entities\Validation\FluentConfiguration\StudentConfiguration.cs" />
+    <Compile Include="Entities\Validation\Student.cs" />
+    <Compile Include="Entities\Validation\AssociateMetadata\StudentAssociatedMetadata.cs" />
+    <Compile Include="Entities\Validation\CustomValidator\StudentValidator.cs" />
+    <Compile Include="Entities\Validation\ValidatableObject\Student.cs" />
+    <Compile Include="Helpers\DbEntityValidationMessageParser.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Entities\Validation\ValidationAttributes\SiddiqiValidationAttribute.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
